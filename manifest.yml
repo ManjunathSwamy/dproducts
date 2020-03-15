@@ -1,6 +1,6 @@
 applications:
 - name: dkartproducts
-  memory: 666MB
+  memory: 1024MB
   host: dkartproducts
   instances: 1
   path: target/dkartproducts-1.4.3.RELEASE.jar 
